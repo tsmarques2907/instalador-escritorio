@@ -1,4 +1,4 @@
-# 🚀 Automação de Instalação e Padronização de Estações de Trabalho
+# Automação de Instalação e Padronização de Estações de Trabalho
 
 Este repositório contém uma solução de automação em **PowerShell** e **Batch Script** projetada para otimizar o processo de provisionamento e padronização de computadores corporativos. 
 
@@ -23,7 +23,7 @@ O script realiza a verificação de softwares pré-existentes, realiza instalaç
 5. **Google Drive**: Instalação silenciosa do cliente desktop.
 6. **Microsoft 365 (Office)**: Instalação via `winget` com *fallback* automático para o instalador Web corporativo (`setup.exe` + `configuration.xml` dinâmico).
 7. **OpenVPN Connect**: Instalação do cliente de VPN.
-8. **Bitdefender**: Localização dinâmica e execução do instalador corporativo a partir do diretório local/pendrive.
+8. **Bitdefender**: Localização dinâmica e execução do instalador corporativo a partir do diretório local/pendrive (por ser um instalador de terceiros, não o coloquei neste repositório).
 9. **Windows Update**: Configuração de repositórios, instalação do módulo `PSWindowsUpdate` e varredura/aplicação de atualizações de sistema.
 
 ---
