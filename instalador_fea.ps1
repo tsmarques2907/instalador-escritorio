@@ -53,7 +53,7 @@ function Test-WingetPackage {
 # === SUB-ROTINAS DE INSTALAÇÃO ===
 function Install-Wallpaper {
     Write-Log "`n=== [1/9] Aplicando Papel de Parede ===" "INFO"
-    $wallpaperFile = Join-Path $ScriptDir "wallpaper-fea.png"
+    $wallpaperFile = Join-Path $ScriptDir "marques-development.jpg"
     $targetWallpaper = "C:\Windows\Web\Wallpaper\wallpaper_empresa.jpg"
 
     if (Test-Path $wallpaperFile) {
