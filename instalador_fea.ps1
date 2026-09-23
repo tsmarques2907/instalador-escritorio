@@ -228,7 +228,7 @@ function Update-Windows {
 # === LOOP DO MENU ===
 do {
     Clear-Host
-    $host.UI.RawUI.WindowTitle = "MENU DE INSTALACAO - T.I. - Fragata e Antunes Advogados"
+    $host.UI.RawUI.WindowTitle = "MENU DE INSTALACAO - T.I. - Marques Development"
     Write-Host "===================================================" -ForegroundColor Yellow
     Write-Host "             MENU DE INSTALACAO DE SOFTWARES       " -ForegroundColor Yellow
     Write-Host "===================================================" -ForegroundColor Yellow
