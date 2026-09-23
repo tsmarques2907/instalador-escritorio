@@ -232,7 +232,7 @@ do {
     Write-Host "===================================================" -ForegroundColor Yellow
     Write-Host "             MENU DE INSTALACAO DE SOFTWARES       " -ForegroundColor Yellow
     Write-Host "===================================================" -ForegroundColor Yellow
-    Write-Host "[1] Aplicar Papel de Parede (Fragata e Antunes)"
+    Write-Host "[1] Aplicar Papel de Parede (Marques Development)"
     Write-Host "[2] Instalar Chrome + Extensao + Definir Padrao"
     Write-Host "[3] Instalar e Fixar Loy Trust no Microsoft Edge"
     Write-Host "[4] Instalar AnyDesk"
